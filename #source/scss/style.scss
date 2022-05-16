@@ -1,0 +1,13 @@
+@import "nullstyle.scss";
+
+.block{
+	padding: 30px;
+	font-size: 20px;
+	line-height: 20px;
+	span{
+		color: green;
+	}
+	.block__text{
+		font-size: 80px;
+	}
+}
